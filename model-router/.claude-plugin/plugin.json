@@ -1,0 +1,1 @@
+{ "name": "model-router", "version": "0.1.0", "license": "MIT", "description": "Roteia cada turno: tarefas simples vão para o Haiku, médias para o Sonnet e complexas para o Opus." }
